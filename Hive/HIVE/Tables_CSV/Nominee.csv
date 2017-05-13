@@ -1,0 +1,9 @@
+NomineeID,AwardID,IsWinner,MovieID,TVShowID,ArtistID,EpisodeID
+1,1,Y,1,,,
+2,2,N,2,,,
+3,3,Y,,1,,
+4,1,N,,2,,
+5,2,Y,,,1,
+6,3,N,,,2,
+7,1,Y,,,,4
+8,2,N,,,,5

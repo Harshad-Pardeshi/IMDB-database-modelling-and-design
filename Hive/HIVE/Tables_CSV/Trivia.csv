@@ -1,0 +1,51 @@
+TriviaID,Trivia,TrailerID,MovieID,EpisodeID,SeasonID,TVShowID
+1,Sex and the City ,1,,,,
+2,Game of Thrones,2,,,,
+3,The Ellen Degeneres Show,3,,,,
+4,Different Strokes,4,,,,
+5,Who's the Boss,5,,,,
+6,Life as We Know It,6,,,,
+7,Pretty Woman,7,,,,
+8,The Lucky One,8,,,,
+9,Safe Haven,9,,,,
+10,A Walk to Remember,10,,,,
+11,The Best of Me,,11,,,
+12,Jane the Virgin,,12,,,
+13,How I Met your Mother,,13,,,
+14,FRIENDS,,14,,,
+15,The Originals,,15,,,
+16,Breaking Bad,,16,,,
+17,I Dream of Jeannie,,17,,,
+18,Bewitched,,18,,,
+19,Small Wonder,,19,,,
+20,Silver Spoons,,20,,,
+21,Seinfield,,,11,,
+22,2 Broke Girls,,,12,,
+23,Suits,,,13,,
+24,Baywatch,,,14,,
+25,Modern Family,,,15,,
+26,Sex and the City ,,,16,,
+27,Game of Thrones,,,17,,
+28,The Ellen Degeneres Show,,,18,,
+29,Different Strokes,,,19,,
+30,Who's the Boss,,,20,,
+31,Life as We Know It,,,,1,
+32,Pretty Woman,,,,2,
+33,The Lucky One,,,,3,
+34,Safe Haven,,,,4,
+35,A Walk to Remember,,,,5,
+36,The Best of Me,,,,6,
+37,Music & Lyrics,,,,7,
+38,The Ugly Truth,,,,8,
+39,Knocked Up,,,,9,
+40,50 First Dates,,,,10,
+41,Small Wonder,,,,,11
+42,Silver Spoons,,,,,12
+43,Seinfield,,,,,13
+44,2 Broke Girls,,,,,14
+45,Suits,,,,,15
+46,Baywatch,,,,,16
+47,Modern Family,,,,,17
+48,Sex and the City ,,,,,18
+49,Game of Thrones,,,,,19
+50,The Ellen Degeneres Show,,,,,20

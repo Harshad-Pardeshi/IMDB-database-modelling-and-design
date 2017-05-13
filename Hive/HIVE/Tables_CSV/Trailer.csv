@@ -1,0 +1,81 @@
+TrailerID,Trailer Name,Trailer Description,Duration,Release Date,MovieID,TVShowID
+1,Life as We Know it,,0:01,06/10/10,11,
+2,Life as We Know it,,0:02,06/09/10,12,
+3,Pretty Woman,,0:00,03/01/01,13,
+4,Pretty Woman,,0:04,02/03/90,14,
+5,The Lucky One,,0:06,02/03/12,15,
+6,The Lucky One,,0:01,12/04/12,16,
+7,Safe Haven,,0:04,04/01/13,6,
+8,Safe Haven,,0:02,01/02/13,7,
+9,A Walk to Remember,,0:03,02/01/02,8,
+10,A Walk to Remember,,0:00,02/01/02,9,
+11,The Best of Me,,0:05,10/10/14,10,
+12,The Best of Me,,0:06,10/08/14,1,
+13,Music & Lyrics,,0:04,10/02/07,2,
+14,Music & Lyrics,,0:04,01/02/07,3,
+15,The Ugly Truth,,0:11,12/07/09,4,
+16,The Ugly Truth,,0:12,12/05/09,5,
+17,Knocked Up,,0:01,01/05/07,7,
+18,Knocked Up,,0:03,10/05/07,8,
+19,50 First Dates,,0:05,11/01/04,9,
+20,50 First Dates,,0:10,11/01/04,10,
+21,Going the Distance,,0:06,03/06/10,11,
+22,Going the Distance,,0:02,05/26/10,12,
+23,Notting Hill,,0:03,11/12/98,13,
+24,Notting Hill,,0:05,11/04/99,2,
+25,How to lose a guy in 10 days,,0:05,05/02/03,3,
+26,How to lose a guy in 10 days,,0:07,05/12/02,4,
+27,Bridget Jones Diary,,0:04,10/04/01,5,
+28,Bridget Jones Diary,,0:08,11/04/01,7,
+29,Silver Linings Playbook,,0:03,10/12/12,8,
+30,Silver Linings Playbook,,0:05,10/11/12,9,
+31,Just go with it,,0:10,01/02/11,10,
+32,Just go with it,,0:06,11/01/11,9,
+33,Fault in our Stars,,0:02,01/06/14,10,
+34,Fault in our Stars,,0:01,01/01/14,11,
+35,Two Night Stand,,0:04,06/09/14,12,
+36,Two Night Stand,,0:02,06/09/14,13,
+37,Leap Year,,0:03,01/01/10,2,
+38,Leap Year,,0:00,02/01/10,3,
+39,What Happens in Vegas,,0:02,05/05/08,4,
+40,What Happens in Vegas,,0:00,07/05/08,8,
+41,The Vampire Diaries,,0:01,10/09/09,,5
+42,The Vampire Diaries,,0:02,01/10/14,,7
+43,Jane the Virgin,,0:00,09/10/14,,8
+44,Jane the Virgin,,0:04,02/01/16,,9
+45,How I Met your Mother,,0:06,02/12/15,,10
+46,How I Met your Mother,,0:01,07/01/16,,9
+47,FRIENDS,,0:04,07/01/09,,10
+48,FRIENDS,,0:02,08/03/11,,11
+49,The Originals,,0:03,08/09/65,,12
+50,The Originals,,0:00,06/01/70,,13
+51,Breaking Bad,,0:05,07/09/64,,2
+52,Breaking Bad,,0:06,06/11/65,,3
+53,I Dream of Jeannie,,0:04,07/09/85,,4
+54,I Dream of Jeannie,,0:04,02/04/88,,8
+55,Bewitched,,0:11,02/09/82,,14
+56,Bewitched,,0:12,01/05/84,,15
+57,Small Wonder,,0:01,05/07/89,,16
+58,Small Wonder,,0:03,06/08/90,,6
+59,Silver Spoons,,0:05,09/09/11,,7
+60,Silver Spoons,,0:10,01/12/13,,8
+61,Seinfield,,0:06,03/06/11,,9
+62,Seinfield,,0:02,08/08/12,,10
+63,2 Broke Girls,,0:03,02/09/89,,1
+64,2 Broke Girls,,0:05,06/01/91,,11
+65,Suits,,0:05,03/09/09,,12
+66,Suits,,0:07,05/11/11,,13
+67,Baywatch,,0:04,06/06/98,,14
+68,Baywatch,,0:08,09/08/99,,15
+69,Modern Family,,0:03,07/04/11,,16
+70,Modern Family,,0:05,02/07/12,,6
+71,Sex and the City ,,0:10,08/09/03,,7
+72,Sex and the City ,,0:06,05/10/05,,2
+73,Game of Thrones,,0:02,03/11/78,,3
+74,Game of Thrones,,0:01,11/03/80,,4
+75,The Ellen Degeneres Show,,0:04,02/09/84,,5
+76,The Ellen Degeneres Show,,0:02,07/01/88,,7
+77,Different Strokes,,0:03,03/11/78,,8
+78,Different Strokes,,0:00,11/03/80,,9
+79,Who's the Boss,,0:02,02/09/84,,10
+80,Who's the Boss,,0:00,07/01/88,,8
